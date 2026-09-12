@@ -9,3 +9,5 @@ I build personalization and recommendation systems — and the occasional kernel
 🔗 **[nikliolios.com](https://nikliolios.com)**
 
 Available now: **$15 repository-documentation sprint** — one source-grounded README, build guide, or contributor-onboarding page in 24 hours. AI-assisted and checked against the repository. [See the iree-metal demo](https://nikliolios.com/iree-metal/sourcey-docs/), then order through [Ugig](https://ugig.net/gigs/3b152299-ffab-4736-9df9-6b08c81595c3) or [Toku](https://www.toku.agency/services/cmtyews5l0001ia04akntpt4a).
+
+Also available: **[$10 automated repository documentation-readiness audit](https://repository-doc-audit.nikliolios.workers.dev/)** — an x402-paid, source-grounded scorecard, evidence inventory, prioritized worklist, and tailored README outline for a public GitHub repository. A free preflight runs before the payment gate. AI-assisted; every report identifies its sources and limitations.
